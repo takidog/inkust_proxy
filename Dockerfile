@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.7-alpine
 # Create app directory
 RUN mkdir -p /usr/src/inkust_proxy
 WORKDIR /usr/src/inkust_proxy
