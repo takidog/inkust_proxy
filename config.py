@@ -1,15 +1,13 @@
 import os
 SUPPORT_PATH = [
-    '/User/DoLogin2',
-    '/Course/GetStuCourse2',
-    '/Bus/GetTimetableAndReserve',
-    '/Bus/GetUserReserve3',
-    '/Bus/CreateUserReserve',
-    '/Bus/GetUserIllegal2',
-    '/Leave/GetStuApply',
-    '/Leave/GetInsertInfo',
-    '/Leave/GetTeacher2',
-    '/Leave/DoSaveApply2',
+    '/nkust/ag_pro/ag003.jsp',
+    '/nkust/ag_pro/ag304_01.jsp',
+    '/nkust/ag_pro/ag008.jsp',
+    '/nkust/ag_pro/ag222.jsp',
+    '/nkust/ag_pro/ag009.jsp',
+    '/nkust/ak_pro/ak010.jsp',
+    '/nkust/ag_pro/ag302_01.jsp',
+    '/nkust/ag_pro/ag302_02.jsp',
 ]
 
 
