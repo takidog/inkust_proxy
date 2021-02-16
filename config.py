@@ -8,6 +8,7 @@ SUPPORT_PATH = [
     '/nkust/ak_pro/ak010.jsp',
     '/nkust/ag_pro/ag302_01.jsp',
     '/nkust/ag_pro/ag302_02.jsp',
+    'nkust/perchk.jsp',
 ]
 
 
